@@ -1,0 +1,14 @@
+{
+  "name": "agile-app",
+  "version": "1.0.0",
+  "description": "Agile backend with express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node dist/app.js"
+  },
+  "author": "Julian",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
